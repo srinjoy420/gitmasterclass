@@ -45,4 +45,6 @@ gsap.to(".circle", {
     ease: Expo.easeInOut,
     duration: 2
 });
+console.log("hello");
+
 
